@@ -30,5 +30,3 @@ latest_posts:
 Welcome to my website.
 
 I studied Mathemactics at CUHKSZ, and completed my master degree in Finance at Imperial Business School. After graduation, I have been working as a buy-side Equity Research Analyst at a mutual fund company for nearly two years. My present area of study concerns asset pricing. Specifically, I am interested in utilizing machine learning and NLP to analyze unstructured information in financial markets.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
